@@ -1,34 +1,35 @@
 # 👋 Hi, I'm Gaiska Salomón
 
-🎓 **Ph.D. Candidate in Statistics & Data Science**  
+🎓 **Ph.D. Candidate in Statistics & Data Science**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate data scientist and researcher currently pursuing a Ph.D. in Statistics and Data Science. My academic journey has equipped me with a solid foundation in statistical modeling, machine learning, and data analysis. Beyond academia, I dedicate my free time to developing web applications and exploring innovative ways to apply machine learning to real-world projects.
+I’m a researcher and data scientist focused on statistics, machine learning, and time series analysis.  
+I work mainly with climate, hydrological, and high-frequency data, combining statistical methods with practical data workflows.
 
 ---
 
-## 🧠 Interests & Expertise
+## 🔬 Focus Areas
 
-- **Machine Learning & AI**: Developing predictive models and intelligent systems.
-- **Web Application Development**: Building interactive and user-friendly web apps.
-- **Data Visualization**: Crafting insightful visual representations of complex data.
-- **Statistical Analysis**: Applying rigorous statistical methods to extract meaningful insights.
+- **Time Series Analysis**: Modeling and forecasting in high-frequency settings.
+- **Machine Learning**: Building and evaluating predictive models.
+- **Statistical Modeling**: Inference, validation, and uncertainty analysis.
+- **Data Visualization**: Clear communication of results for decision-making.
+- **Applied Data Science**: Projects related to climate and water systems.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, R, JavaScript
-- **Frameworks**: Flask, Django, React
+- **Languages**: Python, R, JavaScript, Java
 - **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
 - **Visualization**: Matplotlib, Seaborn, Plotly
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Docker, Jupyter Notebooks
+- **Web**: React, Django, HTML, CSS
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git, Docker, Jupyter Notebooks, ArcGIS
 
 ---
 
 *“Transforming data into actionable insights is not just my profession, it's my passion.”*
-
