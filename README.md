@@ -3,7 +3,6 @@
 ### 🎓 Ph.D. Candidate in Statistics & Data Science — Machine Learning · Time Series · LLMs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaiskasalomon/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gaiskasalomon@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Mexico-006847?style=flat)
 
 ---
