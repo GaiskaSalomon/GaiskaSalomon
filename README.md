@@ -17,7 +17,7 @@ urban-mobility analytics, and domain-specific Spanish language models.
 
 - 🔭 Currently: applying ML/DL to real problems and shipping reproducible, documented projects.
 - 🌱 Comfortable from **classic ML & statistics** to **LLM fine-tuning + RAG**.
-- 🗣️ Spanish (native) · English (professional).
+- 🗣️ Spanish (native) · English (intermediate, conversational).
 
 ---
 
