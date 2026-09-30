@@ -1,99 +1,180 @@
-# 👋 Hi, I'm Gaiska Salomón
+<div align="center">
 
-### 🎓 Ph.D. Candidate in Statistics & Data Science — Machine Learning · Time Series · LLMs
+# Gaiska Salomón
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaiskasalomon/)
-![Location](https://img.shields.io/badge/Based%20in-Mexico-006847?style=flat)
+### Data Scientist | Machine Learning | Time Series & Forecasting | Statistical Modeling
 
----
+Ph.D. Candidate in Statistics & Data Science with experience in quantitative modeling, software development, machine learning, and applied AI.
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaiska%20Salomón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaiskasalomon/)
+[![GitHub](https://img.shields.io/badge/GitHub-GaiskaSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaiskaSalomon)
+![Mexico](https://img.shields.io/badge/Mexico-Remote%20Ready-006847?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional-4C8BF5?style=for-the-badge)
 
-Data scientist and researcher with a strong statistical foundation (probability, Bayesian
-methods, time-series). I build the full lifecycle — from data pipelines and feature
-engineering to model training, rigorous validation, and deployment — across **machine
-learning, deep learning, and LLMs**. Recent work spans commodity-return forecasting,
-urban-mobility analytics, and domain-specific Spanish language models.
-
-- 🔭 Currently: applying ML/DL to real problems and shipping reproducible, documented projects.
-- 🌱 Comfortable from **classic ML & statistics** to **LLM fine-tuning + RAG**.
-- 🗣️ Spanish (native) · English (intermediate, conversational).
+</div>
 
 ---
 
-## 🔬 Focus Areas
+## Professional Summary
 
-- **Machine Learning & Deep Learning** — predictive modeling, gradient boosting, neural nets.
-- **Time Series & Forecasting** — walk-forward validation, backtesting, high-frequency data.
-- **Statistical Modeling** — inference, Bayesian methods, uncertainty quantification.
-- **LLMs / NLP** — fine-tuning (LoRA/QLoRA), retrieval-augmented generation (RAG).
-- **Applied Data Science** — data pipelines, dashboards, and clear communication of results.
+Data Scientist focused on building reproducible, well-validated solutions with Python, statistics, machine learning, and time-series methods.
 
----
+My background combines:
 
-## 🛠️ Tech Stack
+- statistical modeling and inference;
+- machine learning and predictive modeling;
+- time-series forecasting;
+- quantitative research;
+- software development;
+- applied AI and LLM workflows.
 
-**Languages**
+I work across the analytical lifecycle:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**data preparation → feature engineering → modeling → validation → evaluation → reproducible delivery**
 
-**ML / Deep Learning**
+Recent work includes statistical software, climate-informed forecasting, urban-mobility analytics, and domain-specific LLM pipelines.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
-![PyMC](https://img.shields.io/badge/PyMC-Bayesian-FF7F0E?style=flat)
-![statsmodels](https://img.shields.io/badge/statsmodels-3F51B5?style=flat)
-
-**LLMs / NLP**
-
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
-![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-PEFT-blue?style=flat)
-![RAG](https://img.shields.io/badge/RAG-pgvector-4169E1?style=flat)
-
-**Data & Tooling**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Open to remote roles in Data Science, Research Data Science, Applied Scientist, Statistical Modeling, Machine Learning, and Time Series & Forecasting.**
 
 ---
 
-## 📌 Featured Projects
+## Selected Projects
 
-### 📈 [climate-commodity-alpha-lab](https://github.com/GaiskaSalomon/climate-commodity-alpha-lab)
-Quantitative research: do **weather & climate-risk features** improve commodity return
-forecasts? Walk-forward validation, XGBoost/LightGBM, Bayesian methods, cost-aware
-backtesting (Sharpe, IC, drawdown).
-`Python` · `XGBoost` · `LightGBM` · `PyMC` · `time-series` · `backtesting`
+### [nsevt: Non-Stationary Extreme-Value Tail Inference](https://github.com/GaiskaSalomon/nsevt)
 
-### 🚲 [CDMX Mobility Pulse](https://github.com/GaiskaSalomon/CDMXMP)
-Reproducible pipeline + **interactive dashboard** for Mexico City mobility (GTFS, ECOBICI
-GBFS, C5). Ingestion, data-quality reports, KPIs, and 7-day demand forecasting.
-`Python` · `Streamlit` · `data-pipeline` · `XGBoost / LightGBM / CatBoost`
+Production-stable Python package for statistical inference of non-stationary extreme-value tails.
 
-### 🤖 [AgroLLM-ES](https://github.com/GaiskaSalomon/agrollm-es)
-Domain-specific **Spanish LLM** pipeline: dataset cleaning/deduplication, **QLoRA
-fine-tuning** (HuggingFace + TRL + PEFT), and **RAG on PostgreSQL + pgvector** with an
-evaluation suite.
-`PyTorch` · `Hugging Face` · `QLoRA` · `RAG` · `pgvector`
+**Key capabilities**
+- GPD peaks-over-threshold estimation
+- profile-likelihood inference
+- interval-censored models for discretized data
+- permutation trend testing
+- power and minimum-detectable-effect analysis
+- sequential Monte Carlo precision
+- finite-sample calibration
+- multi-source robustness analysis
 
----
+[![PyPI](https://img.shields.io/pypi/v/nsevt?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/nsevt/)
+![Python](https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Inference-6A5ACD?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-## 📊 GitHub Stats
-
-![Gaiska's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiskaSalomon&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaiskaSalomon&layout=compact&hide_border=true)
+**Stack:** `Python` · `NumPy` · `SciPy` · `Statistical Inference` · `Monte Carlo`
 
 ---
 
-*“Transforming data into actionable insights is not just my profession, it's my passion.”*
+### [Climate Commodity Alpha Lab](https://github.com/GaiskaSalomon/climate-commodity-alpha-lab)
+
+Quantitative research pipeline testing whether climate and weather features improve commodity-return forecasts under strict temporal validation.
+
+**Highlights**
+- walk-forward validation
+- XGBoost and LightGBM forecasting
+- Bayesian modeling with PyMC
+- transaction-cost-aware backtesting
+- risk and regime analysis
+
+**Selected results**
+- improved Information Coefficient on **5 of 7 assets**
+- SOYB: **IC 0.121**
+- GLD: **IC 0.113**
+- equal-weight research portfolio: approximately **0.82 net Sharpe**
+
+**Stack:** `Python` · `XGBoost` · `LightGBM` · `PyMC` · `Time Series` · `Backtesting`
+
+---
+
+### [AgroLLM-ES](https://github.com/GaiskaSalomon/agrollm-es)
+
+End-to-end Spanish domain LLM pipeline for agronomy, irrigation, and hydrology.
+
+**Pipeline**
+
+`Dataset Preparation → SFT → QLoRA → RAG → Evaluation`
+
+**Built with**
+- Qwen2.5
+- PyTorch
+- Hugging Face Transformers
+- TRL + PEFT
+- PostgreSQL + pgvector
+- Docker
+
+**Project test-set results**
+
+| Metric | Result |
+|---|---:|
+| Keyword recall | **1.00** |
+| Semantic similarity | **0.78** |
+| Groundedness | **0.67** |
+| Hallucination rate | **0.00** |
+
+**Stack:** `PyTorch` · `Hugging Face` · `QLoRA` · `RAG` · `PostgreSQL` · `pgvector`
+
+---
+
+### [CDMX Mobility Pulse](https://github.com/GaiskaSalomon/CDMXMP)
+
+Reproducible urban-mobility analytics platform using open data from Mexico City.
+
+**Core functionality**
+- ingestion and validation pipelines
+- analytical datasets
+- executive KPIs and alerts
+- temporal analysis
+- interactive Streamlit dashboard
+- 7-day forecasting
+
+**Stack:** `Python` · `Streamlit` · `XGBoost` · `LightGBM` · `CatBoost`
+
+---
+
+## Technical Stack
+
+### Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### Machine Learning & Statistics
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-4CAF50?style=flat-square)
+![PyMC](https://img.shields.io/badge/PyMC-Bayesian-FF7F0E?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Data & Engineering
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Applied AI
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-PEFT-blue?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-pgvector-4169E1?style=flat-square)
+
+---
+
+## What I Bring
+
+- strong statistical reasoning;
+- rigorous model validation;
+- time-series and forecasting experience;
+- reproducible analytical workflows;
+- machine learning implementation;
+- quantitative research discipline;
+- software development background;
+- clear technical communication.
+
+---
+
+## Open to Opportunities
+
+Interested in remote opportunities in:
+
+**Data Science · Research Data Science · Applied Scientist · Statistical Modeling · Machine Learning · Time Series & Forecasting**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaiskasalomon/)
