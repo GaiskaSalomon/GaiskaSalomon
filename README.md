@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaiska%20Salomon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaiskasalomon/)
 ![Mexico](https://img.shields.io/badge/Mexico-Remote%20Ready-006847?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional-4C8BF5?style=flat-square)
+![English](https://img.shields.io/badge/English-Upper--intermediate%20(B2)-4C8BF5?style=flat-square)
 
 </div>
 
@@ -36,6 +36,16 @@ Climate-informed commodity forecasting with walk-forward validation, Bayesian mo
 Spanish domain LLM pipeline with QLoRA fine-tuning and RAG on PostgreSQL + pgvector.
 
 `PyTorch` · `Hugging Face` · `QLoRA` · `RAG`
+
+### [Customer Churn Intelligence](https://github.com/GaiskaSalomon/customer-churn-intelligence)
+Tested, reproducible churn pipeline (logistic regression vs XGBoost, SHAP explanations).
+
+`scikit-learn` · `XGBoost` · `SHAP` · `pytest`
+
+### [CDMX Mobility Pulse](https://github.com/GaiskaSalomon/CDMXMP)
+Reproducible pipeline and interactive dashboard for urban mobility analysis in Mexico City from open data.
+
+`Python` · `CatBoost` · `Open Data`
 
 ---
 
